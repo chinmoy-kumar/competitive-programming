@@ -4,10 +4,10 @@ This repository contains my solutions to various competitive programming problem
 
 ## Navigation
 Each folder is structured as follows:
-- `[Platform]/[Problem-Name].[extension]`
-For example:
-- `Codeforces/A/Watermelon.cpp`
-- `LeetCode/Easy/Two-Sum.py`
+- `[Platform]/[Problem-Name].[extension]` <br>
+  For example:
+- `Codeforces/Watermelon.cpp`
+- `LeetCode/Two-Sum.py`
 ## Notes
 - Each solution file begins with a comment detailing the problem statement, link, and difficulty level.
 - Please feel free to explore and suggest any suggestions.
