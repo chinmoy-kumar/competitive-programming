@@ -4,6 +4,7 @@ Problem: Y. The last 2 digits
 Link: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Y
 Difficulty: Easy
 =====================================================*/
+
 #include <bits/stdc++.h>
 using namespace std;
 
