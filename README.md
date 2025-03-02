@@ -1,6 +1,6 @@
 # Competitive Programming
 
-This repository contains my solutions to various competitive programming problems from platforms like Codeforces, LeetCode, etc.
+<b>This repository contains my solutions to various competitive programming problems from platforms like Codeforces, LeetCode, etc.</b>
 
 ## Navigation
 Each folder is structured as follows:
