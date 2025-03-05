@@ -1,0 +1,1 @@
+{"name":"Local: road_construction","url":"/home/chinmoy/Programming/competitive-programming/cses/road_construction.cpp","tests":[{"id":1741191832612,"input":"5 3\n1 2\n1 3\n4 5","output":"4 2\n3 3\n2 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/chinmoy/Programming/competitive-programming/cses/road_construction.cpp","group":"local","local":true}

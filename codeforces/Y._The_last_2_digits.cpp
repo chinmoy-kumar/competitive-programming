@@ -1,5 +1,6 @@
 /*=====================================================
 Author: Chinmoy Kumar Tirtho
+Platform: Codeforces
 Problem: Y. The last 2 digits
 Link: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Y
 Difficulty: Easy
@@ -23,5 +24,4 @@ int main() {
         cout << 0 << m;
     else
         cout << m;
-
 }
