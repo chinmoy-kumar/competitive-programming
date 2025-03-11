@@ -2,7 +2,7 @@
 Author: Chinmoy Kumar Tirtho
 Platform: CSES
 Problem: Road Construction
-Link: https://cses.fi/problemset/task/1676/
+URL: https://cses.fi/problemset/task/1676/
 =====================================================*/
 
 

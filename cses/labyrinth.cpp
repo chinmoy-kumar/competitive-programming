@@ -2,7 +2,7 @@
 Author: Chinmoy Kumar Tirtho
 Patform: CSES
 Problem: Labyrinth
-Link: https://cses.fi/problemset/result/12161163/
+URL: https://cses.fi/problemset/result/12161163/
 =====================================================*/
 
 #include <bits/stdc++.h>

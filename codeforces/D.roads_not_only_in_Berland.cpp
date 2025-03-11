@@ -2,8 +2,8 @@
 Author: Chinmoy Kumar Tirtho
 Platform: Codeforces
 Problem: D. Roads not only in Berland
-Link: https://codeforces.com/problemset/problem/25/D
-Difficulty: Hard
+URL: https://codeforces.com/problemset/problem/25/D
+Difficulty: Medium-Hard (1900)
 =====================================================*/
 
 #include <bits/stdc++.h>
