@@ -43,6 +43,7 @@ int main()
             cnt2++, r++;
         }
         ans += (1LL * cnt1 * cnt2);
+        // Using 1LL ensures that the multiplication is done using the long long type, which can store larger values than a regular int, thus reducing the risk of overflow in calculations involving large integers.
     }
     cout << ans << nl;
 
