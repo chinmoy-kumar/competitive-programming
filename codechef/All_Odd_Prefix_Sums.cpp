@@ -18,17 +18,12 @@ int main() {
 	    int oddCnt = 0;
 	    for (int i = 0; i < n; i++) {
 	        cin >> v[i];
-	        if(v[i] % 2 != 0)
-	            oddCnt++;
+	        if(v[i] % 2 != 0) oddCnt++;
 	    }
-        
-        int evenCnt = n - oddCnt;
-        
-        if(oddCnt >= 1 && evenCnt >= n-1)
-            cout << "Yes" << '\n';
-        else
-            cout << "No" << '\n';
-	    
+	    if(oddCnt == 1)
+	        cout << "Yes" << '\n';
+	    else
+	        cout << "No" << '\n';
 	}
 
 }
