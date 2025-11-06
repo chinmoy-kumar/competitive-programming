@@ -1,3 +1,9 @@
+/*=====================================================
+Author: Chinmoy Kumar Tirtho
+Platform: Codeforces
+Problem: D. Yet Another Array Problem
+URL: https://codeforces.com/contest/2167/problem/D?
+=====================================================*/
 #include <bits/stdc++.h>
 #define ll long long int
 #define nl '\n'
