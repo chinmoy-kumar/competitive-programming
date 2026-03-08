@@ -1,3 +1,9 @@
+/*=====================================================
+Author: Chinmoy Kumar Tirtho
+Platform: Codeforces
+Problem: B. Strange Machine
+URL: https://codeforces.com/contest/2156/problem/B
+=====================================================*/
 #include <bits/stdc++.h>
 #define ll long long int
 #define nl '\n'
