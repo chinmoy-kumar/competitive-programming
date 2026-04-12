@@ -1,3 +1,9 @@
+/*=====================================================
+Author: Chinmoy Kumar Tirtho
+Platform: Codeforces
+Problem: T. Circle Task\
+URL: https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/T
+=====================================================*/
 #include <bits/stdc++.h>
 #define ll long long int
 #define nl '\n'
