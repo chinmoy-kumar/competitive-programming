@@ -1,8 +1,8 @@
 /*=====================================================
 Author: Chinmoy Kumar Tirtho
 Platform: Codeforces
-Problem: 
-URL: 
+Problem: A. Bingo Candies
+URL: https://codeforces.com/contest/2208/problem/A
 =====================================================*/
 #include <bits/stdc++.h>
 #define ll long long int
